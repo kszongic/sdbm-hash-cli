@@ -1,5 +1,5 @@
 {
-  "name": "sdbm-hash-cli",
+  "name": "@kszongic/sdbm-hash-cli",
   "version": "1.0.0",
   "description": "Compute SDBM hash of strings or stdin. Zero dependencies.",
   "main": "index.js",
