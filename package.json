@@ -1,0 +1,17 @@
+{
+  "name": "sdbm-hash-cli",
+  "version": "1.0.0",
+  "description": "Compute SDBM hash of strings or stdin. Zero dependencies.",
+  "main": "index.js",
+  "bin": {
+    "sdbm-hash": "index.js"
+  },
+  "keywords": ["sdbm", "hash", "cli", "string", "checksum"],
+  "author": "kszongic",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kszongic/sdbm-hash-cli"
+  },
+  "files": ["index.js", "README.md", "LICENSE"]
+}
